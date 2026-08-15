@@ -1,0 +1,16 @@
+[
+{"id":"return_apparel","text":"Apparel and footwear items are generally eligible for return within 7 days of delivery when unused, unworn and in original condition. Tags, packaging and included accessories should be retained."},
+{"id":"return_electronics","text":"Electronics are generally eligible for return within 7 days of delivery for eligible defects or wrong-item cases. Device condition and included accessories are checked during reverse pickup."},
+{"id":"return_home","text":"Eligible Home products can generally be returned within 10 days of delivery if they are unused and in returnable condition. Large or installed products can have category-specific exclusions."},
+{"id":"cod","text":"Cash on Delivery orders may be available for eligible products and serviceable locations. The payable amount is collected at delivery, subject to the order confirmation."},
+{"id":"refund","text":"After an approved return reaches the seller or return center and passes the required checks, a refund is initiated. Bank or card posting time can take additional working days depending on the payment method."},
+{"id":"delivery_standard","text":"Standard delivery commonly takes 3 to 7 business days after dispatch. The exact estimate shown on the order page is the authoritative SLA for that order."},
+{"id":"delivery_delay","text":"If a delivery misses its displayed estimate, the customer can check the live order status and contact support. Weather, holidays and carrier constraints can affect transit time."},
+{"id":"reverse_pickup","text":"Reverse pickup is available only for returnable products and serviceable pin codes. The item must satisfy the category's condition requirements when the pickup is attempted."},
+{"id":"wrong_item","text":"A wrong or materially different item should be reported through the order's return or support flow as soon as possible. Keep the received item and packaging available for verification."},
+{"id":"damaged","text":"For an item that arrives damaged, report the issue promptly through the order support flow. Photos or other evidence may be requested during verification."},
+{"id":"replacement","text":"Replacement is offered only for eligible products and issue types where replacement inventory is available. If replacement is unavailable, an eligible refund or return path may be offered."},
+{"id":"nonreturnable","text":"Some products are non-returnable for hygiene, safety or other category reasons. The product page and order page show the applicable return eligibility for the item."},
+{"id":"pickup_attempt","text":"For a reverse pickup, the item should be packed securely and match the return request. A pickup can fail if the item is unavailable, materially different or outside the allowed condition."},
+{"id":"support","text":"Customers can use the order support flow to view delivery, return and refund status. The order page is the first source to check for order-specific dates and eligibility."}
+]
